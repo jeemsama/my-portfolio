@@ -38,5 +38,6 @@ Order water online, view water refilling station, track orders.
 ## 🛠️ How to Run Locally
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   https://github.com/jeemsama/my-portfolio.git
+   cd my-portfolio
+   php artisan serve
